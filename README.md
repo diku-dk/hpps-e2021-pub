@@ -83,6 +83,36 @@ students. Each group must make their own solutions and cannot share
 implementations and report with other. You may however discuss
 material and ideas.
 
+### A1
+
+* **Handout:** 25/11
+
+* **Handin deadline:** 3/12
+
+### A2
+
+* **Handout:** 9/12
+
+* **Handin deadline:** 17/12
+
+### A3
+
+* **Handout:** 22/12
+
+* **Handin deadline:** 7/1
+
+### A4
+
+* **Handout:** 6/1
+
+* **Handin deadline:** 14/1
+
+### A5
+
+* **Handout:** 13/1
+
+* **Handin deadline:** 21/1
+
 ## Study café
 
 TBD
@@ -140,8 +170,58 @@ that lists expected reading and other material.  Direct links below.
 
 * **Week 1**
 
-  * [Tuesday lecture](material/1-l-1)
+  * [Tuesday lecture 23/11](material/1-l-1)
 
-  * [Thursday lecture](material/1-l-2)
+  * [Thursday lecture 25/11](material/1-l-2)
 
-  * [Thursday exercises](material/1-e-1)
+  * [Thursday exercises 25/11](material/1-e-1) (A1 handout)
+
+* **Week 2**
+
+  * Tuesday lecture 30/11
+
+  * Thursday lecture 2/12
+
+  * Thursday exercises 2/12
+
+* **Week 3**
+
+  * Tuesday lecture 7/12
+
+  * Thursday lecture 9/12
+
+  * Thursday exercises 9/12 (A2 handout)
+
+* **Week 4**
+
+  * Tuesday lecture 14/12
+
+  * Thursday lecture 16/12
+
+  * Thursday exercises 16/12 (A3 handout)
+
+* **Week 5**
+
+  * Tuesday lecture 21/12 (A4 handout)
+
+  * **No teaching on Thursday due to humbug.**
+
+* **Week 6**
+
+  * Tuesday lecture 4/1
+
+  * Thursday lecture 6/1
+
+  * Thursday exercises 6/1 (A5 handout)
+
+* **Week 7**
+
+  * Tuesday lecture 11/1
+
+  * Thursday lecture 13/1
+
+  * Thursday exercises 13/1
+
+* **Week 8**
+
+  * Maybe some exam preparation.  Probably still study cafés.
