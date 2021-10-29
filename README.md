@@ -25,6 +25,12 @@ assignments.
 **Study cafés** are places where you can get assistance with the
 mandatory assignments.
 
+**This course website** is used for handing out material.
+
+**Discord** can be used for asking questions. [Invite link](https://discord.gg/n8S7rfqD).
+
+**Absalon** is used for handing in assignments and for course announcements.
+
 ## Textbook
 
 The textbooks are as follows:
@@ -190,7 +196,7 @@ that lists expected reading and other material.  Direct links below.
 
   * [Thursday lecture 9/12](material/3-l-2)
 
-  * [Thursday exercises 9/12 (A2 handout)](material/3-e-1)
+  * [Thursday exercises 9/12](material/3-e-1) (A2 handout)
 
 * **Week 4**
 
@@ -198,7 +204,7 @@ that lists expected reading and other material.  Direct links below.
 
   * [Thursday lecture 16/12](material/4-l-2)
 
-  * [Thursday exercises 16/12 (A3 handout)](material/3-e-1)
+  * [Thursday exercises 16/12](material/3-e-1) (A3 handout)
 
 * **Week 5**
 
