@@ -9,8 +9,8 @@ Git.
 ## Basics
 
 HPPS takes place in block 2.  There are three kinds of in-person
-teaching activities: **lectures**, **exercises** and the **student
-café**.  Both take place physically on campus.
+teaching activities: **lectures**, **exercises** and the **study
+café**.  All take place physically on campus.
 
 **Lectures** are mostly conventional, but may use aspects of the
 [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom)
@@ -52,6 +52,8 @@ course, with a different focus (and much longer length) than HPPS.
 However, they may still be worth watching.
 
 ## Schedule
+
+Study cafés have not been scheduled yet.
 
 ### Tuesday
 
