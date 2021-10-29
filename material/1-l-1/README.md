@@ -1,4 +1,15 @@
-# Lab: the first one
+# Introduction to HPPS and C
+
+## Reading
+
+* BOH 1
+* JG 1-3
+
+## Videos
+
+* [Command line arguments](https://sid.erda.dk/share_redirect/f8RgVGzlET/argv.mp4)
+
+## Abstract
 
 Welcome to the first lecture in HPPS!  This lecture uses the [flipped
 classroom](https://en.wikipedia.org/wiki/Flipped_classroom) approach.

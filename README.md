@@ -29,11 +29,11 @@ mandatory assignments.
 
 The textbooks are as follows:
 
-* [Computer Systems: A Programmer's Perspective, 3rd edition](https://csapp.cs.cmu.edu/)
+* **BOH:** [Computer Systems: A Programmer's Perspective, 3rd edition](https://csapp.cs.cmu.edu/) (global edition)
 
-* [Modern C](https://modernc.gforge.inria.fr/) ([CC-licensed PDF](https://gforge.inria.fr/frs/download.php/latestfile/5298/ModernC.pdf))
+* **JG:** [Modern C](https://modernc.gforge.inria.fr/) ([CC-licensed PDF](https://gforge.inria.fr/frs/download.php/latestfile/5298/ModernC.pdf))
 
-* [HPPS course notes](notes.pdf) - **these will be updated as the
+* **HPPS:** [HPPS course notes](notes.pdf) - **these will be updated as the
   course progresses, so make sure to regularly check that you have
   the newest version**
 
@@ -163,7 +163,7 @@ The TAs are
 The exam will be a take-home exam that will be very similar in form to
 the mandatory assignments.
 
-## Course program
+## Course plan
 
 Each teaching activity has an associated subdirectory here on GitHub
 that lists expected reading and other material.  Direct links below.
@@ -178,27 +178,27 @@ that lists expected reading and other material.  Direct links below.
 
 * **Week 2**
 
-  * Tuesday lecture 30/11
+  * [Tuesday lecture 30/11](material/2-l-1)
 
-  * Thursday lecture 2/12
+  * [Thursday lecture 2/12](material/2-l-2)
 
-  * Thursday exercises 2/12
+  * [Thursday exercises 2/12](material/1-e-1)
 
 * **Week 3**
 
-  * Tuesday lecture 7/12
+  * [Tuesday lecture 7/12](material/3-l-1)
 
-  * Thursday lecture 9/12
+  * [Thursday lecture 9/12](material/3-l-2)
 
-  * Thursday exercises 9/12 (A2 handout)
+  * [Thursday exercises 9/12 (A2 handout)](material/3-e-1)
 
 * **Week 4**
 
-  * Tuesday lecture 14/12
+  * [Tuesday lecture 14/12](material/4-l-1)
 
-  * Thursday lecture 16/12
+  * [Thursday lecture 16/12](material/4-l-2)
 
-  * Thursday exercises 16/12 (A3 handout)
+  * [Thursday exercises 16/12 (A3 handout)](material/3-e-1)
 
 * **Week 5**
 
