@@ -72,7 +72,7 @@ and TAs:
 
 * **Hold 2:** 1-0-04 (DIKU), Christian Arboe Franck <fpk278@alumni.ku.dk>
 
-* **Hold 3:** Auditorium Nord, Nørre Allé 51, NEXS, Albert Alonso de la Fuente <aaf@di.ku.dk>
+* **Hold 3:** Auditorium Nord, Nørre Allé 51, NEXS, Albert Alonso de la Fuente <albert.alonso@nbi.ku.dk>
 
 * **Hold 4:** 3-0-25 (DIKU), Anas Youssef Idiab <hjr420@alumni.ku.dk>
 
@@ -164,7 +164,7 @@ The TAs are
 * Tore Hald Simonsen <gwn228@alumni.ku.dk>
 * Christian Arboe Franck <fpk278@alumni.ku.dk>
 * Anas Youssef Idiab <hjr420@alumni.ku.dk>
-* Albert Alonso de la Fuente <aaf@di.ku.dk>
+* Albert Alonso de la Fuente <albert.alonso@nbi.ku.dk>
 
 ## Exam format
 
