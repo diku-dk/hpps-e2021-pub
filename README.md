@@ -140,7 +140,7 @@ All written material will be in **English**.
 Most oral teaching will be in **Danish** or **English**, depending on
 the specific teacher or TA.
 
-You will be mainly be programming in **C** and **Python**.
+You will mainly be programming in **C** and **Python**.
 
 
 ## Software
