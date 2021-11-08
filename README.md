@@ -39,7 +39,7 @@ The textbooks are as follows:
 
 * **BOH:** [Computer Systems: A Programmer's Perspective, 3rd edition](https://csapp.cs.cmu.edu/) (global edition)
 
-* **JG:** [Modern C](https://modernc.gforge.inria.fr/) ([CC-licensed PDF](https://gforge.inria.fr/frs/download.php/latestfile/5298/ModernC.pdf))
+* **JG:** [Modern C](https://modernc.gforge.inria.fr/) ([CC-licensed PDF](https://hal.inria.fr/hal-02383654/document))
 
 * **HPPS:** [HPPS course notes](notes.pdf) - **these will be updated as the
   course progresses, so make sure to regularly check that you have
