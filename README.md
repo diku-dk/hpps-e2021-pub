@@ -70,7 +70,7 @@ Study cafés have not been scheduled yet.
 Exercises are split along four *hold*, in the following rooms
 and TAs:
 
-* **Hold 1:** 1-0-37 (DIKU), TBD
+* **Hold 1:** 1-0-37 (DIKU), Noah Stonall <stonall@di.ku.dk>
 
 * **Hold 2:** 1-0-04 (DIKU), Christian Arboe Franck <fpk278@alumni.ku.dk>
 
