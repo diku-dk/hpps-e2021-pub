@@ -68,7 +68,7 @@ Study cafés have not been scheduled yet.
 Exercises are split along four *hold*, in the following rooms
 and TAs:
 
-* **Hold 1:** 1-0-37 (DIKU), Tore Hald Simonsen <gwn228@alumni.ku.dk>
+* **Hold 1:** 1-0-37 (DIKU), TBD
 
 * **Hold 2:** 1-0-04 (DIKU), Christian Arboe Franck <fpk278@alumni.ku.dk>
 
@@ -161,10 +161,10 @@ The teachers are
 
 The TAs are
 
-* Tore Hald Simonsen <gwn228@alumni.ku.dk>
 * Christian Arboe Franck <fpk278@alumni.ku.dk>
 * Anas Youssef Idiab <hjr420@alumni.ku.dk>
 * Albert Alonso de la Fuente <albert.alonso@nbi.ku.dk>
+* A fourth one
 
 ## Exam format
 
