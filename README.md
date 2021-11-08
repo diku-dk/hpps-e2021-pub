@@ -1,10 +1,12 @@
-# Syllabus and Material for High Performance Programming and Systems (HPPS)
+# Syllabus and Material for High Performance Programming and Systems (HPPS) 
 
 Welcome to the course website for HPPS!  While assignment handin is
 still on Absalon, all material and information will be located here.
 You are not expected to treat this repository as anything more than a
 website, but feel free to clone it if you are already comfortable with
 Git.
+
+![speedracer](https://user-images.githubusercontent.com/55833/140742019-7dc64ab8-ccba-4f5b-955f-5469e5c3829e.jpg)
 
 ## Basics
 
