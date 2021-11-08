@@ -166,7 +166,7 @@ The TAs are
 * Christian Arboe Franck <fpk278@alumni.ku.dk>
 * Anas Youssef Idiab <hjr420@alumni.ku.dk>
 * Albert Alonso de la Fuente <albert.alonso@nbi.ku.dk>
-* A fourth one
+* Noah Stonall <stonall@di.ku.dk>
 
 ## Exam format
 
