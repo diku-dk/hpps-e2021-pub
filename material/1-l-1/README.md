@@ -9,30 +9,12 @@
 
 * [Command line arguments](https://sid.erda.dk/share_redirect/f8RgVGzlET/argv.mp4)
 
-## Abstract
+## Self-reflection exercises
 
-Welcome to the first lecture in HPPS!  This lecture uses the [flipped
-classroom](https://en.wikipedia.org/wiki/Flipped_classroom) approach.
-This is motivated by the idea that HPPS is mostly an *applied* course,
-where the focus is on honing your skill at software construction.  For
-all labs you will be assigned reading and/or videos to watch in
-advance.
+We don't have any classroom exercises after Tuesday lectures, but
+please consider going through the tasks below on your own.
 
-If you have not watched the video or read anything for this first lab,
-fear not! Our goal today will be on ensuring that you have the tools
-you will need for the course, so we don't have to spend too much time
-on technical hindrances later on. Please make sure that you have
-watched the videos and read the material *before* the next lab
-session.
-
-Most subsequent labs will be directly focused on
-exercising the concepts used in the *mandatory assignments*.  Each lab
-consists of tasks listed in a document, like this one.  Lab work is
-not *mandatory*, and you do not submit it anywhere (but you are
-encouraged to ask for feedback!), but you cannot expected to pass the
-course without active participation in the labs.
-
-## Basic setup and Unix familiarity
+### Basic setup and Unix familiarity
 
 You will need access to a Unix shell for HPPS.  Read the [Unix
 software guide](../../unix.md).
@@ -76,7 +58,7 @@ following:
 
 * How to delete files and directories (`rm`).
 
-## Compiling C programs
+### Compiling C programs
 
 You will be doing a lot of C programming in HPPS, so you need to make
 sure you can compile C code.  You are not expected to understand what
