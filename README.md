@@ -107,21 +107,21 @@ material and ideas.
 
 ### A3
 
-* **Handout:** 22/12
+* **Handout:** 16/12
 
-* **Handin deadline:** 7/1
+* **Handin deadline:** 24/12
 
 ### A4
+
+* **Handout:** 22/1
+
+* **Handin deadline:** 8/1
+
+### A5
 
 * **Handout:** 6/1
 
 * **Handin deadline:** 14/1
-
-### A5
-
-* **Handout:** 13/1
-
-* **Handin deadline:** 21/1
 
 ## Study café
 
