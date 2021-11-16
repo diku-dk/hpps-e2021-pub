@@ -113,15 +113,15 @@ material and ideas.
 
 ### A4
 
-* **Handout:** 22/1
+* **Handout:** 21/12
 
-* **Handin deadline:** 8/1
+* **Handin deadline:** 7/1
 
 ### A5
 
 * **Handout:** 6/1
 
-* **Handin deadline:** 14/1
+* **Handin deadline:** 16/1
 
 ## Study café
 
