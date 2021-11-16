@@ -11,3 +11,6 @@ repeatme: repeatme.c
 
 noAs: noAs.c
 	gcc noAs.c -o noAs $(CFLAGS)
+
+test_bits: test_bits.c bits.h
+	gcc -o test_bits test_bits.c $(CFLAGS)
