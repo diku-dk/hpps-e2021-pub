@@ -212,5 +212,27 @@ http://topps.diku.dk/compsys/integers.html
 
 ## Integer puzzles
 
-Consider the integer puzzles from the last slide in the lecture
-slides.
+Given the following initialization:
+
+```C
+int x = foo();
+int y = bar();
+unsigned ux = x;
+unsigned uy = y;
+```
+
+Consider whether each of the following statements hold:
+
+* `x < 0` => `((x*2) < 0)`
+* `ux >= 0`
+* `x & 7 == 7`  => `(x<<30) < 0`
+* `ux > -1`
+* `x > y`   =>  `-x < -y`
+* `x * x >= 0`
+* `x > 0 && y > 0`  =>  `x + y > 0`
+* `x >= 0`  =>  `-x <= 0`
+* `x <= 0`  =>  `-x >= 0`
+* `(x|-x)>>31 == -1`
+* `ux >> 3 == ux/8`
+* `x >> 3 == x/8`
+* `x & (x-1) != 0`
