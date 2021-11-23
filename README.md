@@ -55,8 +55,6 @@ However, they may still be worth watching.
 
 ## Schedule
 
-Study cafés have not been scheduled yet.
-
 ### Tuesday
 
 * **Lecture:** 10:00-12:00 (Lille UP-1, DIKU).
@@ -77,6 +75,11 @@ and TAs:
 * **Hold 3:** Auditorium Nord, Nørre Allé 51, NEXS, Albert Alonso de la Fuente <albert.alonso@nbi.ku.dk>
 
 * **Hold 4:** 3-0-25 (DIKU), Anas Youssef Idiab <hjr420@alumni.ku.dk>
+
+### Friday
+
+* **Study café:** 13:00-15:00 at A110, A111, C103, all at HCØ.
+  Depending on needs, we may not use all these rooms.
 
 ## Assignments
 
@@ -125,7 +128,8 @@ material and ideas.
 
 ## Study café
 
-TBD
+You can get help for assignments at the study cafés every Friday
+13:00-15:00.
 
 ## Exam qualification
 
