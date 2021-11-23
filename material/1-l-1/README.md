@@ -1,5 +1,7 @@
 # Introduction to HPPS and C
 
+[Slides](1-l-1.pdf)
+
 ## Reading
 
 * BOH 1
