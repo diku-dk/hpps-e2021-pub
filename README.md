@@ -102,6 +102,8 @@ material and ideas.
 
 * **Handin deadline:** 3/12
 
+[Text](assignments/a1/a1.pdf), [code handout](assignments/a1/a1-handout.tar.gz).
+
 ### A2
 
 * **Handout:** 9/12
@@ -188,7 +190,7 @@ that lists expected reading and other material.  Direct links below.
 
   * [Thursday lecture 25/11](material/1-l-2)
 
-  * [Thursday exercises 25/11](material/1-e-1) (A1 handout)
+  * [Thursday exercises 25/11](material/1-e-1) ([A1 handout](assignments/a1))
 
 * **Week 2**
 
