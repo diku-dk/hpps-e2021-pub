@@ -114,7 +114,7 @@ material and ideas.
 
 * **Handout:** 16/12
 
-* **Handin deadline:** 24/12
+* **Handin deadline:** 22/12
 
 ### A4
 
