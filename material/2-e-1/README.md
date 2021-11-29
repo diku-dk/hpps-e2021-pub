@@ -5,7 +5,7 @@ Author: Troels Henriksen <athas@sigkill.dk>
 **Note:** when you download binary files like [ints.bin](ints.bin)
 from GitHub, *do not* just copy from the browser.  This will corrupt
 the contents by interpreting them as text and discarding bits that do
-not correspond to valid characters.  Instead, use the Download button.
+not correspond to valid characters.  Instead, click the Raw button.
 
 ## Pointers
 
