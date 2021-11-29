@@ -198,7 +198,7 @@ that lists expected reading and other material.  Direct links below.
 
   * [Thursday lecture 2/12](material/2-l-2)
 
-  * [Thursday exercises 2/12](material/1-e-1)
+  * [Thursday exercises 2/12](material/2-e-1)
 
 * **Week 3**
 
@@ -214,7 +214,7 @@ that lists expected reading and other material.  Direct links below.
 
   * [Thursday lecture 16/12](material/4-l-2)
 
-  * [Thursday exercises 16/12](material/3-e-1) (A3 handout)
+  * [Thursday exercises 16/12](material/4-e-1) (A3 handout)
 
 * **Week 5**
 
