@@ -1,5 +1,7 @@
 # Arithmetic
 
+[Slides](2-l-1.pdf)
+
 ## Reading
 
 * BOH 2.3-2.4
