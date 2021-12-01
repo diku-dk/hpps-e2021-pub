@@ -253,7 +253,7 @@ HPPS.
 
 ## Debug some programs
 
-[Attached](exercise_code/) there is a list of programs containing some
+[Attached](bugs/) there is a list of programs containing some
 different bugs. Some of them very obvious. Use GDB to identify and
 profile the bugs. Record your approach in a GDB script.
 
