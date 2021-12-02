@@ -1,5 +1,7 @@
 # Pointers and memory in C
 
+[Slides](2-l-2.pdf)
+
 ## Reading
 
 * JG 8-9, 11
