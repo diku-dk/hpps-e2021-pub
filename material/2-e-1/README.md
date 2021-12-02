@@ -243,7 +243,7 @@ Take some of the programs from last weeks exercises or perhaps even
 the assignment and play around with GDB. Recreate a bug that you had
 in your program and try finding it with GDB.  Test most of the
 commands on the [GDB QUICK REFERENCE
-sheet](https://sourceware.org/gdb/current/onlinedocs/refcard.pdf.gz)
+sheet](https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)
 (which can also be found in today's exercise folder).
 
 **Note:** if you are on macOS, you need to use LLDB instead.  [See
