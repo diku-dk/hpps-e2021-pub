@@ -19,6 +19,45 @@ work, as you will be creating several different files for htis lab.
 The code handout contains the start of one that you can extend as
 needed.
 
+## Index functions
+
+In this exercise you must rewrite multidimensional array indexes to
+flat array indexes for arrays of various shapes.  For each array and
+index, provide the flat index for when the array is in row-major order
+and in column-major order, respectively.  Also indicate whether the
+original index is out-of-bounds, regardless of whether the flat index
+is.
+
+* Array size: 10 x 20
+
+  Element index: (5,11)
+
+* Array size: 20 x 10
+
+  Element index: (5,11)
+
+* Array size: 2 x 3 x 4
+
+  Element index: (1,2,3)
+
+### Inverse
+
+Now you must do the opposite of above, and convert *flat* indexes to
+the corresponding *nested* index for a given array.  Again, indicate
+whether the flat index is out-of-bounds.
+
+* Array size: 10 x 20
+
+  Flat index: 111
+
+* Array size: 2 x 3
+
+  Flat index: 6
+
+* Array size: 2 x 3 x 4
+
+  Flat index: 5
+
 ## Reading data files
 
 In these tasks you will be implementing functions for converting
