@@ -1,5 +1,7 @@
 # Memory allocation and arrays
 
+[Slides](3-l-2.pdf)
+
 ## Reading
 
 * HPPS 2.1
