@@ -25,5 +25,5 @@ int main(int argc, char** argv) {
     printf("\n");
   }
 
-  free(data);
+  free(arr);
 }
