@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-g -Wall -Wextra -pedantic
 
-all: printpoints verifyindexes genpoints genindexes sortpoints sortindexes
+all: printpoints verifyindexes genpoints genindexes sortpoints sortindexes readpoints
 
 printpoints: printpoints.c io.o
 	$(CC) -o printpoints printpoints.c io.o $(CFLAGS)
@@ -20,6 +20,9 @@ sortpoints: sortpoints.c io.o sort.o
 
 sortindexes: sortindexes.c io.o sort.o
 	$(CC) -o sortindexes sortindexes.c io.o sort.o $(CFLAGS)
+
+readpoints: readpoints.c io.o sort.o
+	$(CC) -o readpoints readpoints.c io.o sort.o $(CFLAGS)
 
 io.o: io.c
 	$(CC) -c io.c $(CFLAGS)
