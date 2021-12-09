@@ -218,13 +218,13 @@ that lists expected reading and other material.  Direct links below.
 
 * **Week 5**
 
-  * Tuesday lecture 21/12 (A4 handout)
+  * [Tuesday lecture 21/12](material/5-l-1) (A4 handout)
 
   * **No teaching on Thursday due to humbug.**
 
 * **Week 6**
 
-  * Tuesday lecture 4/1
+  * [Tuesday lecture 4/1](material/6-l-1)
 
   * Thursday lecture 6/1
 
