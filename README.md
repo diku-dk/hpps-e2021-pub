@@ -226,13 +226,13 @@ that lists expected reading and other material.  Direct links below.
 
   * [Tuesday lecture 4/1](material/6-l-1)
 
-  * Thursday lecture 6/1
+  * [Thursday lecture 6/1](material/6-l-2)
 
   * Thursday exercises 6/1 (A5 handout)
 
 * **Week 7**
 
-  * Tuesday lecture 11/1
+  * [Tuesday lecture 11/1](material/7-l-1)
 
   * Thursday lecture 13/1
 
