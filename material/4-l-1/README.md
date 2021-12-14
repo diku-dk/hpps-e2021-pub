@@ -1,5 +1,7 @@
 # Introduction to performance and the memory hierarchy
 
+[Slides](4-l-1.pdf)
+
 ## Reading
 
 * BOH 5.1-5.2, 6.1-6.3
