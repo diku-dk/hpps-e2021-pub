@@ -244,4 +244,4 @@ that lists expected reading and other material.  Direct links below.
 
 * **Week 8**
 
-  * Maybe some exam preparation.  Probably still study cafés.
+  * Take-home exam (precise days TBA).
