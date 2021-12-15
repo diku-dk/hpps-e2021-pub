@@ -1,5 +1,7 @@
 # Introduction to performance and the memory hierarchy
 
+[Slides](4-l-1.pdf)
+
 ## Reading
 
 * BOH 5.1-5.2, 6.1-6.3
@@ -8,6 +10,18 @@
 
 * [Caches](https://sid.erda.dk/share_redirect/AjdMSpVIjr/videos/3-l-1/caches.mp4)
 * [Locality-aware programming](https://sid.erda.dk/share_redirect/AjdMSpVIjr/videos/3-l-1/locality.mp4)
+
+(Some video players - e.g. Safari on macOS - may have trouble playing
+the audio.  If this happens, download the video files and try another
+player.)
+
+## Relevant self-reflection exercises from CSapp
+
+* PP 6.7, page 644
+* PP 6.8, page 645
+* HP 6.29, page 687
+* HP 6.30, page 688
+* HP 6.31, page 688
 
 ## Self-reflection exercises
 
@@ -54,11 +68,3 @@ previous result.
 
 Take care to prevent the compiler from completely optimizing away your
 computation.
-
-## From CSapp
-
-* PP 6.7, page 644
-* PP 6.8, page 645
-* HP 6.29, page 687
-* HP 6.30, page 688
-* HP 6.31, page 688

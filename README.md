@@ -110,11 +110,15 @@ material and ideas.
 
 * **Handin deadline:** 17/12
 
+[Text](assignments/a2/a2.pdf), [code handout](assignments/a2/a2-handout.tar.gz).
+
 ### A3
 
 * **Handout:** 16/12
 
 * **Handin deadline:** 22/12
+
+[Text](assignments/a3/a3.pdf), [code handout](assignments/a3/a3-handout.tar.gz).
 
 ### A4
 
@@ -240,4 +244,4 @@ that lists expected reading and other material.  Direct links below.
 
 * **Week 8**
 
-  * Maybe some exam preparation.  Probably still study cafés.
+  * Take-home exam (precise days TBA).
