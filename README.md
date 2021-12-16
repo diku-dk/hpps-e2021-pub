@@ -240,7 +240,7 @@ that lists expected reading and other material.  Direct links below.
 
   * Thursday lecture 13/1
 
-  * Thursday exercises 13/1
+  * [Thursday exercises 13/1](material/7-e-1)
 
 * **Week 8**
 
