@@ -232,7 +232,7 @@ that lists expected reading and other material.  Direct links below.
 
   * [Thursday lecture 6/1](material/6-l-2)
 
-  * Thursday exercises 6/1 (A5 handout)
+  * [Thursday exercises 6/1](material/6-e-1) (A5 handout)
 
 * **Week 7**
 
