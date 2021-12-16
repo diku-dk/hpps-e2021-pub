@@ -28,7 +28,7 @@ You can stop the server by hitting Ctrl+C. Note that here we give the server a n
 for servers usually, but has been provided here as an example of how we can define certain characteristics
 of out server from command line arguments.
 
-Your task at this exercise is to familiarise with Python, or brush up on your skills before A3 as 
+Your task at this exercise is to familiarise with Python, or brush up on your skills before A4 as 
 it is a Python based network programming task. Initially you should investigate server_socket.py. 
 
     1) Start multiple clients each connecting to the same server_socket at the same time. You may need to 
