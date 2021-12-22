@@ -143,6 +143,12 @@ To qualify for the exam you are required to achieve at least 50% of
 the total number of points in the four assignments (that is, 10 points
 at minimum). You also need to get *at least* one point pr. assignment.
 
+## Exam date
+
+The exam is a take-home exam held from the 21st of January to the 25th
+of January.  It has an estimated workload of 20 hours.  It will
+involve practical programming and performance analysis of programs.
+
 ## Languages
 
 All written material will be in **English**.
