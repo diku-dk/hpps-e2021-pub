@@ -12,7 +12,7 @@ same.
 *  [Code handout](2020/src.tar.gz)
 *  [Code solution](2020/ref.tar.gz)
 
-# **2020 reexam**
+## 2020 reexam
 
  *  [Text](2020-reexam/practical-part.pdf)
  *  [Code handout](2020-reexam/src.tar.gz)
