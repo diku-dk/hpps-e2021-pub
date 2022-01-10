@@ -16,4 +16,4 @@ same.
 
  *  [Text](2020-reexam/practical-part.pdf)
  *  [Code handout](2020-reexam/src.tar.gz)
- *  [Code solution](2020-reecam/ref.tar.gz)
+ *  [Code solution](2020-reexam/ref.tar.gz)
