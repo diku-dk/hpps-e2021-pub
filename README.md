@@ -245,7 +245,7 @@ that lists expected reading and other material.  Direct links below.
 
   * [Tuesday lecture 11/1](material/7-l-1)
 
-  * Thursday lecture 13/1
+  * [Thursday lecture 13/1](material/7-l-2)
 
   * [Thursday exercises 13/1](material/7-e-1)
 
